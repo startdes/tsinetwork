@@ -1,85 +1,47 @@
-body,
-html {
-    font-family: Arial, Tahoma, sans-serif;
-    text-align: center;
-}
-
 .logo {
-    position: relative;
-    width: 100%;
-    margin-bottom: 5px;
+    width: 550px;
 }
 
-#divzapzap {
+.divlinks {
     width: 100%;
-    background-color: #39890f;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
+    max-width: 400px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.divcenter {
     text-align: center;
 }
 
-#divlocalizacao {
-    width: 100%;
-    background-color: #af0505;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
+.divconteudo {
+    margin: 10px;
 }
 
-#divtel {
-    width: 100%;
-    background-color: rgb(57, 53, 53);
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
+.divpropaganda {
+    margin-top: 50px;
 
 }
 
-#divcompartilhar {
-    width: 100%;
-    background-color: #f4f4f4;
-    line-height: 60px;
-    font-size: 14px;
-    color: #0a0909;
-    float: left;
-    text-align: center;
-
+#link {
+    color: #000000;
 }
 
-.propaganda {
-    width: 100%;
+body {
     background-color: #ffffff;
-    line-height: 60px;
-    font-size: 14px;
-    color: #030303;
-    float: left;
-    text-align: center;
-
-}
-.site {
-    width: 100%;
-    background-color: #cb8f48;
-    line-height: 60px;
-    font-size: 14px;
-    color: #fff;
-    float: left;
-    text-align: center;
-
 }
 
-.divface {
-    width: 100%;
+.geral {
+    background-color: rgb(57, 53, 53);
+}
+
+.zapzapcolor {
+    background-color: #39890f;
+}
+
+.instacolor {
+    background-color: #b12c2c;
+}
+
+.facecolor {
     background-color: #4267B2;
-    line-height: 60px;
-    font-size: 14px;
-    color: #FFF;
-    float: left;
-    text-align: center;
-
 }
